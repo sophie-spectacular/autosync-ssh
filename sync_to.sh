@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Variables
-LOCAL_DIR="wlnfw-retraining/"          # Local directory to copy files from
-REMOTE_USER="sdhalleweyn"        # Remote SSH username
-REMOTE_HOST="txe1-login.mit.edu"        # Remote host (IP or hostname)
-REMOTE_DIR="wlnfw-retraining/"         # Remote directory to copy files to
+LOCAL_DIR="local_dir/"          # Local directory to copy files from
+REMOTE_USER="user"        # Remote SSH username
+REMOTE_HOST="host"        # Remote host (IP or hostname)
+REMOTE_DIR="remote_dir/"         # Remote directory to copy files to
 
 
 # Check if all arguments are provided
