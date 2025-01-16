@@ -1,0 +1,34 @@
+building file list ... done
+./
+.git/objects/
+src/
+
+sent 3232 bytes  received 176 bytes  973.71 bytes/sec
+total size is 137292  speedup is 40.29
+Files successfully copied to sdhalleweyn@txe1-login.mit.edu:wlnfw-retraining
+building file list ... done
+./
+test.py
+.git/objects/
+
+sent 3303 bytes  received 192 bytes  998.57 bytes/sec
+total size is 137305  speedup is 39.29
+Files successfully copied to sdhalleweyn@txe1-login.mit.edu:wlnfw-retraining
+building file list ... done
+./
+.git/objects/
+
+sent 3226 bytes  received 170 bytes  970.29 bytes/sec
+total size is 137292  speedup is 40.43
+Files successfully copied to sdhalleweyn@txe1-login.mit.edu:wlnfw-retraining
+building file list ... done
+
+sent 3214 bytes  received 158 bytes  1348.80 bytes/sec
+total size is 137292  speedup is 40.72
+Files successfully copied to sdhalleweyn@txe1-login.mit.edu:wlnfw-retraining
+building file list ... done
+.git/objects/
+
+sent 3220 bytes  received 164 bytes  966.86 bytes/sec
+total size is 137292  speedup is 40.57
+Files successfully copied to sdhalleweyn@txe1-login.mit.edu:wlnfw-retraining
