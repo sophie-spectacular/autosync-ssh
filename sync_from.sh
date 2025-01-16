@@ -1,9 +1,9 @@
 #!/bin/bash
 
-REMOTE_USER="sdhalleweyn"
-REMOTE_HOST="txe1-login.mit.edu"
-REMOTE_DIR="wlnfw-retraining/"
-LOCAL_DIR="./"
+REMOTE_USER="user"
+REMOTE_HOST="host"
+REMOTE_DIR="remote_dir/"
+LOCAL_DIR="local_dir/"
 
 ssh "${REMOTE_USER}@${REMOTE_HOST}" "find '${REMOTE_DIR}' -type f \( -name '*.csv' -o -name '*.txt' -o -name '*.out' \) -not -path '*/wandb/*'" | \
 while read -r remote_file; do
